@@ -25,4 +25,9 @@ Solution of "build a survey form project" from freeCodeCamp
  - [x] Inside the form element, you are presented with a button with id of submit to submit all the inputs;
 
 ----
+
+#### 📋 **RESULT:**
+![image](https://user-images.githubusercontent.com/100227422/170260229-d37abad2-a65c-4095-acbf-8a5892760c50.png)
+
+----
 *font: www.freecodecamp.org/*
